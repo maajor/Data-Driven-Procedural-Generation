@@ -38,7 +38,7 @@ Please add through pull requests or open issue.
 
 **Bayesian grammar learning for inverse procedural modeling**
 [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Martinovic_Bayesian_Grammar_Learning_2013_CVPR_paper.pdf)
-<p align="center"><img width="400px" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/a5a8752fc219f6fd3d8aef345ca23b00066a2185/8-Figure4-1.png" /></p>
+<p align="center"><img width="400px" src="/imgs/Bayesian grammar learning for inverse procedural modeling.png" /></p>
 
 **Interactive Design of Probability Density Functions for Shape Grammars**
 [paper](http://lgg.epfl.ch/publications/2015/proman/paper.pdf)
@@ -47,11 +47,11 @@ Please add through pull requests or open issue.
 ### Level Design
 **Adversarially Tuned Scene Generation**
 [paper](https://fias.uni-frankfurt.de/~rothkopf/docs/cvpr_2017.pdf)
-<p align="center"><img width="400px" src="https://ai2-s2-public.s3-us-west-2.amazonaws.com/figures/2017-08-08/dc3cd4e110b526cb59bd7527d540120c5fae77ce/4-Figure2-1.png" /></p>
+<p align="center"><img width="400px" src="/imgs/Adversarially Tuned Scene Generation.png" /></p>
 
 **Deep Convolutional Priors for Indoor Scene Synthesis**
 [paper](https://dritchie.github.io/pdf/deepsynth.pdf)
-<p align="center"><img width="400px" src="https://ai2-s2-public.s3-us-west-2.amazonaws.com/figures/2017-08-08/696f4757994d13352b5b934d3c1a18dfabb71d1c/1-Figure1-1.png" /></p>
+<p align="center"><img width="400px" src="/imgs/Deep Convolutional Priors for Indoor Scene Synthesis.png" /></p>
 
 **Make It Home: Automatic Optimization of Furniture Arrangement**
 [paper](http://web.cs.ucla.edu/~dt/papers/siggraph11/siggraph11.pdf)
